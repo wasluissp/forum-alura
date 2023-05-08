@@ -48,7 +48,7 @@ Nossa API se concentrará especificamente nos tópicos, e deve permitir aos usu�
   - Atualizar Status para Solucionado - Fechado - Não Solucionado
 
 ## Banco de Dados do Projeto
-![Base de Dados](src/main/resources/assets/Banco.png)
+![Base de Dados](https://github.com/wasluissp/forum-alura/tree/main/forum-alura-master/src/main/resources/assets/Banco.png)
 
 ## Dados de Saida
-![Saida em arquivo json](src/main/resources/assets/Tela.png)
+![Saida em arquivo json](https://github.com/wasluissp/forum-alura/tree/main/forum-alura-master/src/main/resources/assets/Tela.png)
